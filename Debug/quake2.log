@@ -1,0 +1,61 @@
+﻿  vid_menu.c
+  vid_dll.c
+  sys_win.c
+  snd_win.c
+  q_shwin.c
+  net_wins.c
+c:\users\bacr\desktop\quake-2-master\win32\net_wins.c(484): warning C4133: функция: несовместимые типы - из "qboolean *" в "u_long *"
+  in_win.c
+  conproc.c
+  cd_win.c
+  sv_world.c
+  sv_user.c
+  sv_send.c
+  sv_main.c
+  sv_init.c
+  sv_game.c
+  sv_ents.c
+  sv_ccmds.c
+  pmove.c
+  net_chan.c
+  md4.c
+  Создание кода...
+c:\users\bacr\desktop\quake-2-master\win32\in_win.c(574): warning C4715: RawValuePointer: значение возвращается не при всех путях выполнения
+c:\users\bacr\desktop\quake-2-master\win32\net_wins.c(124): warning C4715: NET_CompareAdr: значение возвращается не при всех путях выполнения
+c:\users\bacr\desktop\quake-2-master\win32\net_wins.c(154): warning C4715: NET_CompareBaseAdr: значение возвращается не при всех путях выполнения
+  Компиляция...
+  files.c
+  cvar.c
+  crc.c
+  common.c
+  cmodel.c
+  cmd.c
+  q_shared.c
+  m_flash.c
+  x86.c
+  snd_mix.c
+  snd_mem.c
+  snd_dma.c
+  qmenu.c
+  menu.c
+  keys.c
+c:\users\bacr\desktop\quake-2-master\client\keys.c(243): warning C4013: toupper: нет определения; предполагается "extern" с возвратом типа "int"
+  console.c
+  cl_view.c
+  cl_tent.c
+  cl_scrn.c
+  cl_pred.c
+  Создание кода...
+c:\users\bacr\desktop\quake-2-master\client\menu.c(3580): warning C4715: PlayerConfig_ScanDirectories: значение возвращается не при всех путях выполнения
+  Компиляция...
+  cl_parse.c
+  cl_newfx.c
+  cl_main.c
+  cl_inv.c
+  cl_input.c
+  cl_fx.c
+  cl_ents.c
+  cl_cin.c
+  Создание кода...
+c:\users\bacr\desktop\quake-2-master\client\cl_input.c(479): warning C4700: использована неинициализированная локальная переменная "buf"
+  quake2.vcxproj -> C:\Users\Bacr\Desktop\Quake-2-master\Quake2\quake2.exe

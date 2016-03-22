@@ -1,0 +1,19 @@
+﻿  gl_warp.c
+  gl_rsurf.c
+  gl_rmisc.c
+  gl_rmain.c
+c:\users\bacr\desktop\quake-2-master\ref_gl\gl_rmain.c(1651): warning C4133: =: несовместимые типы - из "int (__cdecl *)(void *,void *)" в "qboolean (__cdecl *)(void *,void *)"
+  gl_model.c
+  gl_mesh.c
+  gl_light.c
+  gl_image.c
+  gl_draw.c
+  q_shwin.c
+  qgl_win.c
+  glw_imp.c
+  q_shared.c
+  Создание кода...
+c:\users\bacr\desktop\quake-2-master\ref_gl\gl_image.c(1223): warning C4715: GL_Upload8: значение возвращается не при всех путях выполнения
+c:\users\bacr\desktop\quake-2-master\ref_gl\gl_rmain.c(1341): warning C4715: R_Init: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\Bacr\Desktop\Quake-2-master\Quake2\ref_gl.lib и объект C:\Users\Bacr\Desktop\Quake-2-master\Quake2\ref_gl.exp
+  ref_gl.vcxproj -> C:\Users\Bacr\Desktop\Quake-2-master\Quake2\ref_gl.dll

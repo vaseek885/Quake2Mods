@@ -1,0 +1,60 @@
+﻿  v_sabdrop.c
+  p_weapon.c
+c:\users\bacr\desktop\quake-2-master\game\p_weapon.c(1692): warning C4020: fire_rail: слишком много фактических параметров
+  p_view.c
+  p_trail.c
+  p_hud.c
+  p_client.c
+  m_tank.c
+  m_supertank.c
+  m_soldier.c
+  m_parasite.c
+  m_mutant.c
+  m_move.c
+  m_medic.c
+  m_insane.c
+  m_infantry.c
+  m_hover.c
+  m_gunner.c
+  m_gladiator.c
+  m_flyer.c
+  m_float.c
+  Создание кода...
+  Компиляция...
+  m_flipper.c
+  m_chick.c
+  m_brain.c
+  m_boss32.c
+  m_boss31.c
+  m_boss3.c
+  m_boss2.c
+  m_berserk.c
+  m_actor.c
+  g_weapon.c
+  g_utils.c
+  g_turret.c
+  g_trigger.c
+  g_target.c
+  g_svcmds.c
+  g_spawn.c
+  g_save.c
+  g_phys.c
+  g_monster.c
+  g_misc.c
+  Создание кода...
+  Компиляция...
+  g_main.c
+  g_items.c
+c:\users\bacr\desktop\quake-2-master\game\g_items.c(1293): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "void *"
+c:\users\bacr\desktop\quake-2-master\game\g_items.c(1293): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "char [1]"
+c:\users\bacr\desktop\quake-2-master\game\g_items.c(1313): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "void *"
+c:\users\bacr\desktop\quake-2-master\game\g_items.c(1313): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "char [1]"
+  g_func.c
+  g_combat.c
+  g_cmds.c
+  g_chase.c
+  g_ai.c
+  Создание кода...
+E:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(C:\Users\Bacr\Desktop\Quake-2-master\Quake2\baseq2\game.dll) does not match the Linker's OutputFile property value (C:\Users\Bacr\Desktop\Quake-2-master\Quake2\baseq2\gamex86.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+E:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1191,5): warning MSB8012: TargetName(game) does not match the Linker's OutputFile property value (gamex86). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  game.vcxproj -> C:\Users\Bacr\Desktop\Quake-2-master\Quake2\baseq2\game.dll
